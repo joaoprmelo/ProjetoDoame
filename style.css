@@ -30,12 +30,12 @@ header .logo{
     position: relative;
     max-width: 100px;
 }
-/* Fazer o checkbox se tornar hidden */
-header .dark input[type="checkbox"]{
+
+header input[type="checkbox"]{
     visibility: hidden;
     display: none;
 }
-/*  
+  
 header .darkmode{
     position: relative;
     display: block;
